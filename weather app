@@ -1,2 +1,6 @@
-A responsive web application that displays real-time weather details for any city using the OpenWeatherMap API. It shows temperature, weather conditions, humidity, and wind speed. Built with HTML, CSS, and JavaScript.
-
+Weather App
+ Search and view real-time weather for any city worldwide
+ Displays temperature, humidity, wind speed, and weather conditions
+ Uses OpenWeatherMap API to fetch live data
+ Built with HTML, CSS, and JavaScript
+ Fully responsive and works on all device sizes
